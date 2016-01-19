@@ -13,3 +13,6 @@ $img->addMark(1711.8240,-1894.1769, "Test4");
 
 imagejpeg($img->getImage());
 imagedestroy($img->getImage());
+
+
+Christian Wolf
